@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43086" started-at="2020-09-09T03:55:10Z" finished-at="2020-09-09T03:55:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43086" started-at="2020-09-09T03:55:10Z" finished-at="2020-09-09T03:55:53Z">
+      <class name="colle1_arrayList.TC03_Links_Logic3_with_loop">
+        <test-method status="PASS" signature="Invokebrowser()[pri:0, instance:colle1_arrayList.TC03_Links_Logic3_with_loop@724af044]" name="Invokebrowser" is-config="true" duration-ms="18876" started-at="2020-09-08T23:55:10Z" finished-at="2020-09-08T23:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invokebrowser -->
+        <test-method status="PASS" signature="initalize()[pri:0, instance:colle1_arrayList.TC03_Links_Logic3_with_loop@724af044]" name="initalize" is-config="true" duration-ms="19771" started-at="2020-09-08T23:55:29Z" finished-at="2020-09-08T23:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method status="PASS" signature="links_validation()[pri:0, instance:colle1_arrayList.TC03_Links_Logic3_with_loop@724af044]" name="links_validation" duration-ms="3500" started-at="2020-09-08T23:55:49Z" finished-at="2020-09-08T23:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- links_validation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:colle1_arrayList.TC03_Links_Logic3_with_loop@724af044]" name="teardown" is-config="true" duration-ms="910" started-at="2020-09-08T23:55:52Z" finished-at="2020-09-08T23:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- colle1_arrayList.TC03_Links_Logic3_with_loop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

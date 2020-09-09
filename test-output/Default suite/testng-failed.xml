@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="colle1_arrayList.TC02_Links_Logic2_with_iterator">
+        <methods>
+          <include name="link_validation"/>
+          <include name="Invokebrowser"/>
+          <include name="initalize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- colle1_arrayList.TC02_Links_Logic2_with_iterator -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
